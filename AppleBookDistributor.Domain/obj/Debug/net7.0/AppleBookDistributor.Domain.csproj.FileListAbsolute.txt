@@ -1,0 +1,12 @@
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/bin/Debug/net7.0/AppleBookDistributor.Domain.deps.json
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/bin/Debug/net7.0/AppleBookDistributor.Domain.dll
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/bin/Debug/net7.0/AppleBookDistributor.Domain.pdb
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/AppleBookDistributor.Domain.csproj.AssemblyReference.cache
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/AppleBookDistributor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/AppleBookDistributor.Domain.AssemblyInfoInputs.cache
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/AppleBookDistributor.Domain.AssemblyInfo.cs
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/AppleBookDistributor.Domain.csproj.CoreCompileInputs.cache
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/AppleBookDistributor.Domain.dll
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/refint/AppleBookDistributor.Domain.dll
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/AppleBookDistributor.Domain.pdb
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/Debug/net7.0/ref/AppleBookDistributor.Domain.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleBookDistributor", "AppleBookDistributor\AppleBookDistributor.csproj", "{50AA44D3-8F68-4CD6-9A4B-13872BC434BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleBookDistributor.Domain", "AppleBookDistributor.Domain\AppleBookDistributor.Domain.csproj", "{6E1ABDBA-4E55-4669-82AB-053A6C25BD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleBookDistributor.Infrastructure", "AppleBookDistributor.Infrastructure\AppleBookDistributor.Infrastructure.csproj", "{49606A8C-48B0-4813-8FB8-2F8CD644D4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AA44D3-8F68-4CD6-9A4B-13872BC434BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AA44D3-8F68-4CD6-9A4B-13872BC434BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AA44D3-8F68-4CD6-9A4B-13872BC434BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AA44D3-8F68-4CD6-9A4B-13872BC434BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1ABDBA-4E55-4669-82AB-053A6C25BD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1ABDBA-4E55-4669-82AB-053A6C25BD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1ABDBA-4E55-4669-82AB-053A6C25BD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1ABDBA-4E55-4669-82AB-053A6C25BD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49606A8C-48B0-4813-8FB8-2F8CD644D4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49606A8C-48B0-4813-8FB8-2F8CD644D4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49606A8C-48B0-4813-8FB8-2F8CD644D4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49606A8C-48B0-4813-8FB8-2F8CD644D4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/AppleBookDistributor.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/AppleBookDistributor.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/AppleBookDistributor.Domain.csproj",
+        "projectName": "AppleBookDistributor.Domain",
+        "projectPath": "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/AppleBookDistributor.Domain.csproj",
+        "packagesPath": "/home/fayaz/.nuget/packages/",
+        "outputPath": "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fayaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/AppleBookDistributor.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/AppleBookDistributor.Infrastructure.csproj",
+        "projectName": "AppleBookDistributor.Infrastructure",
+        "projectPath": "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/AppleBookDistributor.Infrastructure.csproj",
+        "packagesPath": "/home/fayaz/.nuget/packages/",
+        "outputPath": "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fayaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/AppleBookDistributor.Domain.csproj": {
+                "projectPath": "/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Domain/AppleBookDistributor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

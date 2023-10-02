@@ -1,0 +1,15 @@
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/bin/Debug/net7.0/AppleBookDistributor.Infrastructure.deps.json
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/bin/Debug/net7.0/AppleBookDistributor.Infrastructure.dll
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/bin/Debug/net7.0/AppleBookDistributor.Infrastructure.pdb
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/bin/Debug/net7.0/AppleBookDistributor.Domain.dll
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/bin/Debug/net7.0/AppleBookDistributor.Domain.pdb
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.csproj.AssemblyReference.cache
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.AssemblyInfoInputs.cache
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.AssemblyInfo.cs
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.csproj.CoreCompileInputs.cache
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.csproj.CopyComplete
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.dll
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/refint/AppleBookDistributor.Infrastructure.dll
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/AppleBookDistributor.Infrastructure.pdb
+/home/fayaz/RiderProjects/AppleBookDistributor/AppleBookDistributor.Infrastructure/obj/Debug/net7.0/ref/AppleBookDistributor.Infrastructure.dll
